@@ -1,0 +1,14 @@
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\bin\Debug\twitch_aio.exe.config
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\bin\Debug\twitch_aio.exe
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\bin\Debug\twitch_aio.pdb
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.csproj.AssemblyReference.cache
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.csproj.SuggestedBindingRedirects.cache
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.MainWindow.resources
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.Properties.Resources.resources
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.csproj.GenerateResource.cache
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.csproj.CoreCompileInputs.cache
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.csproj.CopyComplete
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.exe
+C:\Users\wojte\OneDrive\Dokumenty\GitHub\Projects\twitch_aio\obj\Debug\twitch_aio.pdb
